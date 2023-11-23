@@ -8,5 +8,8 @@ body {
     background: linear-gradient(
         to bottom right,
         rgb(82, 120, 163), 
-        rgb(71, 158, 155));
+        rgb(71, 158, 155)
+    );
+    display: grid;
+    place-items: center;
 }
