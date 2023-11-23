@@ -5,5 +5,8 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(rgb(82, 120, 163), rgb(71, 158, 155));
+    background: linear-gradient(
+        to bottom right,
+        rgb(82, 120, 163), 
+        rgb(71, 158, 155));
 }
