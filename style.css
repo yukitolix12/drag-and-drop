@@ -34,3 +34,7 @@ body {
     background-color: white;
     margin: 10px;
 }
+
+.hold {
+    border: 4px solid #ccc;
+}
