@@ -9,6 +9,7 @@ fill.addEventListener("dragend", dragEnd);
 
 function dragStart() {
     console.log("start");
+    fill.className += " hold";
 }
 
 function dragEnd() {
