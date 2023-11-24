@@ -43,3 +43,7 @@ body {
     background-color: #f4f4f4;
     border-style: dotted;
 }
+
+.invisible {
+    display: none;
+}
