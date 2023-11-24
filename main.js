@@ -5,7 +5,7 @@ const empties = document.querySelectorAll(".empty");
 
 //2. ドラッグのトリガー
 fill.addEventListener("dragstart", dragStart);
-fill.addEventListener("dragstart", dragStart);
+fill.addEventListener("dragend", dragEnd);
 
 function dragStart() {
     console.log("start");
