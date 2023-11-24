@@ -10,3 +10,7 @@ fill.addEventListener("dragend", dragEnd);
 function dragStart() {
     console.log("start");
 }
+
+function dragStart() {
+    console.log("start");
+}
