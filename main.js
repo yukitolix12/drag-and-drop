@@ -10,6 +10,7 @@ fill.addEventListener("dragend", dragEnd);
 function dragStart() {
     console.log("start");
     fill.className += " hold";
+    fill.className = "invisible";
 }
 
 function dragEnd() {
