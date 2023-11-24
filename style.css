@@ -25,3 +25,12 @@ body {
     left: 5px;
     cursor: pointer;
 }
+
+.empty {
+    display: inline-block;
+    width: 260px;
+    height: 260px;
+    border: 2px solid rgb(21, 54, 75);
+    background-color: white;
+    margin: 10px;
+}
