@@ -11,6 +11,6 @@ function dragStart() {
     console.log("start");
 }
 
-function dragStart() {
-    console.log("start");
+function dragEnd() {
+    console.log("end");
 }
