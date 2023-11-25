@@ -30,17 +30,17 @@ function dragEnd() {
 }
 
 function dragOver() {
-    console.log("end");
+    console.log("over");
 }
 
-function dragOver() {
-    console.log("end");
+function dragEnter() {
+    console.log("enter");
 }
 
-function dragOver() {
-    console.log("end");
+function dragLeave() {
+    console.log("leave");
 }
 
-function dragOver() {
-    console.log("end");
+function dragDrop() {
+    console.log("drop");
 }
