@@ -10,6 +10,9 @@ fill.addEventListener("dragend", dragEnd);
 //4.一つ一つのempty要素を取得
 for(const empty of empties) {
     empty.addEventListener("dragover", dragOver);
+    empty.addEventListener("dragover", dragOver);
+    empty.addEventListener("dragover", dragOver);
+    empty.addEventListener("dragover", dragOver);
 }
 
 // 3.ドラッグ関数
