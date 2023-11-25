@@ -36,6 +36,7 @@ function dragOver(e) {
 
 function dragEnter() {
     console.log("enter");
+    this.className += " hovered";
 }
 
 function dragLeave() {
