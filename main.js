@@ -46,4 +46,5 @@ function dragLeave() {
 
 function dragDrop() {
     console.log("drop");
+    this.className = "empty";
 }
