@@ -7,6 +7,12 @@ const empties = document.querySelectorAll(".empty");
 fill.addEventListener("dragstart", dragStart);
 fill.addEventListener("dragend", dragEnd);
 
+//4.一つ一つのempty要素を取得
+for(const empty of empties) {
+    
+}
+
+// 3.ドラッグ関数
 function dragStart() {
     console.log("start");
     fill.className += " hold";
