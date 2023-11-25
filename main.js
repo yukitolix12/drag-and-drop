@@ -17,4 +17,5 @@ function dragStart() {
 
 function dragEnd() {
     console.log("end");
+    fill.className = "fill";
 }
