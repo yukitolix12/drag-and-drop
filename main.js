@@ -28,3 +28,7 @@ function dragEnd() {
     console.log("end");
     fill.className = "fill";
 }
+
+function dragOver() {
+    console.log("end");
+}
