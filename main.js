@@ -32,3 +32,15 @@ function dragEnd() {
 function dragOver() {
     console.log("end");
 }
+
+function dragOver() {
+    console.log("end");
+}
+
+function dragOver() {
+    console.log("end");
+}
+
+function dragOver() {
+    console.log("end");
+}
