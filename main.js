@@ -11,6 +11,9 @@ function dragStart() {
     console.log("start");
     fill.className += " hold";
     fill.className = "invisible";
+    setTimeout(() => {
+
+    }, timeout);
 }
 
 function dragEnd() {
